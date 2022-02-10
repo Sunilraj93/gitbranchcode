@@ -1,18 +1,17 @@
-# gitbranchcode---
+---
 page_type: sample
 name: "HTML sample for aws"
 description: "This is a simple HTML/CSS/JS web app that you can deploy to aws using Git."
 languages:
 - javascript
 - html
-- bootstrap
 products:
 - aws
 - ec2
 - git
 ---
 
-# HTML sample for Azure App Service
+# HTML sample for aws
 
 This is a simple HTML/CSS/JS web app that can be deployed to Azure App Service using Git. 
 
